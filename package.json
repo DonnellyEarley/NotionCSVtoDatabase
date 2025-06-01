@@ -1,0 +1,10 @@
+{
+  "name": "notion-flow",
+  "version": "0.5.0",
+  "main": "notion_csv_importer.js",
+  "scripts": {
+    "start": "electron .",
+    "install": "npm install csv-parse axios dotenv electron @notionhq/client",
+    "uninstall": "npm uninstall csv-parse axios dotenv electron @notionhq/client"
+  }
+}
