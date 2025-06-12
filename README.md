@@ -26,8 +26,5 @@ Create a Notion database from a CSV file.
 6. Enter your Notion API Key ("Internal Integration Secret") and the Notion Page ID into the `.env` file.
 7. Run `npm start` to run the program!
 
-## Premium
-Premium features are in the works for this program (e.g., a Google Sheets integration). Once they are, I will have them available for $20 on [Gumroad](https://gumroad.com) and [CodeCanyon](https://codecanyon.net).
-
 ## License
 MIT License for personal use.
